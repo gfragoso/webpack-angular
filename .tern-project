@@ -1,0 +1,14 @@
+{
+  "ecmaVersion": 5,
+  "libs": [
+    "browser",
+    "jquery",
+    "node",
+    "angular",
+    "modules",
+    "es_modules"
+  ],
+  "loadEagerly": [
+    "C:/vso/care-scheduling/src/**/*.js"
+  ]
+}
